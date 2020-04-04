@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="multiplata-jvm">
+    <output-path>D:\PROYECTOS_SPRING\multiplata\build\libs</output-path>
+    <root id="archive" name="multiplata-jvm.jar">
+      <element id="module-output" name="multiplata.jvmMain" />
+    </root>
+  </artifact>
+</component>
